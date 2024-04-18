@@ -1,0 +1,17 @@
+
+‹
+java:S6208O"CMerge the previous cases into this one using comma-separated label.(òï±êÿÿÿÿÿ8âñêŠï1J$cdbb11db-756b-47b2-bafd-9ad6f404fb4f
+|
+java:S1854K"9Remove this useless assignment to local variable "grade".(™¡ñ8ÖìçŠï1J$321e23d3-e4b7-44c1-a5a4-e99dbd7d3ecb
+m	java:S106"+Replace this use of System.out by a logger.(€Äüé8ßÍßŠï1J$6f1a78a9-7b44-42ed-ac29-47a5dc8c00f3
+m	java:S106"+Replace this use of System.out by a logger.(üÔÒª8áÍßŠï1J$98d9d887-1790-424a-874a-6225bf23ddbe
+m	java:S106"+Replace this use of System.out by a logger.(Â–ÆÇ8áÍßŠï1J$f31df5fd-6a47-4690-ab74-5f7531504d33
+r	java:S106"+Replace this use of System.out by a logger.(ØÒó×ùÿÿÿÿ8ãÍßŠï1J$134d29ce-8b0c-4be2-be39-07af4bdcd8fe
+m	java:S106""+Replace this use of System.out by a logger.(¸ª²Ù8äÍßŠï1J$6cad6597-c1fd-4974-bac8-6ade0d80bd7d
+r	java:S106("+Replace this use of System.out by a logger.(ÇíÖˆüÿÿÿÿ8èÍßŠï1J$de93ba14-46af-4321-824c-26332c78c6ab
+r	java:S106+"+Replace this use of System.out by a logger.(œƒı˜ûÿÿÿÿ8éÍßŠï1J$3cde4e31-75ba-45e9-8200-0e502bbcee6f
+r	java:S106."+Replace this use of System.out by a logger.(õşØÓùÿÿÿÿ8êÍßŠï1J$e89be71f-797c-471c-b595-554cde95aab8
+m	java:S1066"+Replace this use of System.out by a logger.(ô©Œ‚8õ³âŠï1J$c8493042-d8e4-4d26-8f51-3aba426661fd
+r	java:S1068"+Replace this use of System.out by a logger.(²ÇñÙşÿÿÿÿ8ö³âŠï1J$3b41bc7d-eee2-47fb-b6ac-a218cc17c430
+ƒ	java:S125="<This block of commented-out lines of code should be removed.(¿ş–‚ùÿÿÿÿ8íÍßŠï1J$9e8044c7-d2ce-494c-a83c-72801baf5c76
+r	java:S106\"+Replace this use of System.out by a logger.(ØÒó×ùÿÿÿÿ8íçŠï1J$8c0be096-2de1-472d-9cf0-6a0f0f533641

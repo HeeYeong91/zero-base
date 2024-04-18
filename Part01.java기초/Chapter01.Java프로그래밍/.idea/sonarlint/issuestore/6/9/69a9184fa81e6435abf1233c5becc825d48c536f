@@ -1,0 +1,10 @@
+
+E	java:S106"+Replace this use of System.out by a logger.(þÿ˜Þýÿÿÿÿ
+E	java:S106%"+Replace this use of System.out by a logger.(ØÐå¨ýÿÿÿÿ
+E	java:S1068"+Replace this use of System.out by a logger.(²¥Ñ•ýÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+G
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ

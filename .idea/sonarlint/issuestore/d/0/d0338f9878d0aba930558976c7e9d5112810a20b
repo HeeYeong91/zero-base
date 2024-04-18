@@ -1,0 +1,67 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Øï™üÿÿÿÿ8æÒÀºî1J$a322f817-c7c4-4db4-a3d8-e8c7464f9bea
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Á®¨8çÒÀºî1J$ddcbbec4-8412-4d64-ae4b-263b07c41b48
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÄÑ·şÿÿÿÿ8èÒÀºî1J$98a3e969-76c2-4ace-961e-3986d94adb49
+“	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü…´ù8èÒÀºî1J$bd861283-ce65-4891-a478-670f13681baf
+“	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÕÛí8èÒÀºî1J$d4ffcf68-b06e-4546-b484-09818704972b
+˜	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¢êåşÿÿÿÿ8èÒÀºî1J$bb899486-10b1-499e-9552-8dd1662dee8f
+˜	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à…úÿÿÿÿ8èÒÀºî1J$4922d161-34cc-4f4f-8ce1-339339e65a82
+˜	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸§“Îùÿÿÿÿ8èÒÀºî1J$8bb6770e-4d55-4471-92dc-b933e2c4fcd2
+‹
+java:S1854<"CRemove this useless assignment to local variable "one_apple_price".(¸§“Îùÿÿÿÿ8óÒÀºî1J$b06953f2-7dc4-4b82-94ac-e5a9491d6892
+‚
+java:S1854;":Remove this useless assignment to local variable "my_age".(à…úÿÿÿÿ8óÒÀºî1J$a3999d5f-8910-4c83-bb82-4ff2dddf3007
+‰
+java:S18547"ARemove this useless assignment to local variable "OneApplePrice".(¢¢êåşÿÿÿÿ8óÒÀºî1J$c2036648-a580-47a9-bfe0-7ded75a8651d
+|
+java:S18546"9Remove this useless assignment to local variable "MyAge".(¬ÕÛí8óÒÀºî1J$82e5fafe-36e9-4ecb-ad03-ccde66551074
+‰
+java:S18542"ARemove this useless assignment to local variable "oneApplePrice".(„Ø¢µşÿÿÿÿ8óÒÀºî1J$835f2e68-ea30-43cc-9ad8-9ccb8f06d62e
+
+java:S18541"9Remove this useless assignment to local variable "myAge".(‹ïÑúÿÿÿÿ8óÒÀºî1J$f9976914-23bf-444c-aea9-7c0e58c66b3f
+„
+java:S1854#"<Remove this useless assignment to local variable "ontApple".(ˆ¤Üêûÿÿÿÿ8óÒÀºî1J$58aa7862-f164-4a59-8a7c-b7d8a13facdc
+‚
+java:S1854":Remove this useless assignment to local variable "Apple5".(ÈÄÑ·şÿÿÿÿ8óÒÀºî1J$378f2ab3-2d2c-4aea-8681-9b34b4b498e5
+}
+java:S1854":Remove this useless assignment to local variable "apple5".(¤ùÄØ8óÒÀºî1J$06b82c5c-3e0b-4258-a16c-ad756b6bce67
+‚
+java:S1854":Remove this useless assignment to local variable "_apple".(˜Øï™üÿÿÿÿ8óÒÀºî1J$8b9621fc-0ad8-49b2-8b21-1ea30cf367b0
+}
+java:S1854":Remove this useless assignment to local variable "apple3".(íïøÓ8óÒÀºî1J$f7e4fd4d-8cfe-4703-b147-b0c243d7c1cd
+{
+java:S1854"9Remove this useless assignment to local variable "apple".(½á8óÒÀºî1J$59f46176-7cb8-4590-a4bc-8e59184f25fb
+k	java:S106"+Replace this use of System.out by a logger.(ˆÛ³µÿÿÿÿÿJ$3aa154bf-e101-491c-9ff0-06514cc263c0
+m	java:S106
+"+Replace this use of System.out by a logger.(ôÌ¿ò8öÒÀºî1J$ce816b8b-c07a-4141-93e0-53beb6afc0d2
+r	java:S106"+Replace this use of System.out by a logger.(Áº„™úÿÿÿÿ8öÒÀºî1J$58a93e3e-f8cc-4e4f-9321-93d21ab4878d
+f	java:S106"+Replace this use of System.out by a logger.(“¨ãéJ$87ce6442-272f-4203-9212-855d9ba5f17d
+l
+java:S1481"*Remove this unused "apple" local variable.(½á8÷ÒÀºî1J$bd68c667-44ed-4cdf-a1e9-2ddd3c69da9c
+n
+java:S1481"+Remove this unused "apple3" local variable.(íïøÓ8÷ÒÀºî1J$7b9b235b-d4f2-4ec0-acd9-5e55c9dceaa8
+s
+java:S1481"+Remove this unused "_apple" local variable.(˜Øï™üÿÿÿÿ8÷ÒÀºî1J$d71e31b5-d2fe-4f59-87f1-627bf55db49e
+m	java:S106"+Replace this use of System.out by a logger.(Â Ëö8øÒÀºî1J$9190d0db-43cd-41be-9cd9-bfc8a8939247
+l	java:S106"+Replace this use of System.out by a logger.(‚[8øÒÀºî1J$f5d9face-9050-4f03-affe-19bf23366281
+n
+java:S1481"+Remove this unused "apple5" local variable.(¤ùÄØ8øÒÀºî1J$09487a29-c86c-4bb6-9326-731664e6c65e
+s
+java:S1481"+Remove this unused "Apple5" local variable.(ÈÄÑ·şÿÿÿÿ8øÒÀºî1J$4e03fff4-605f-4541-903e-28437f3093d2
+~	java:S125""<This block of commented-out lines of code should be removed.(™úÉ›8ùÒÀºî1J$f307cf4c-3c6e-43cf-9a40-a5da8e923460
+u
+java:S1481#"-Remove this unused "ontApple" local variable.(ˆ¤Üêûÿÿÿÿ8ùÒÀºî1J$11052791-3d0b-4f7a-ae67-21405c25ba60
+ƒ	java:S125'"<This block of commented-out lines of code should be removed.(ïêË›ÿÿÿÿÿ8ùÒÀºî1J$6a597425-535c-4b6e-b18c-149d7d3208f9
+r	java:S106+"+Replace this use of System.out by a logger.(éõËØøÿÿÿÿ8ùÒÀºî1J$e4489030-ee2c-443f-8897-42545ccba42f
+r
+java:S14811"*Remove this unused "myAge" local variable.(‹ïÑúÿÿÿÿ8úÒÀºî1J$8258e102-8d31-48fb-b5bb-d60d073725aa
+z
+java:S14812"2Remove this unused "oneApplePrice" local variable.(„Ø¢µşÿÿÿÿ8úÒÀºî1J$609acf32-b584-47a1-ac33-a25a451a9768
+m
+java:S14816"*Remove this unused "MyAge" local variable.(¬ÕÛí8úÒÀºî1J$666b81b8-5235-46b9-9487-941e9a607e50
+z
+java:S14817"2Remove this unused "OneApplePrice" local variable.(¢¢êåşÿÿÿÿ8úÒÀºî1J$d4096379-4249-432a-b2b8-a6982f4b397c
+s
+java:S1481;"+Remove this unused "my_age" local variable.(à…úÿÿÿÿ8úÒÀºî1J$c83b3338-43ae-47ae-8cfe-e22d356b7dca
+|
+java:S1481<"4Remove this unused "one_apple_price" local variable.(¸§“Îùÿÿÿÿ8úÒÀºî1J$74b9cbde-93ee-4373-9e4a-94a7ee2b3150

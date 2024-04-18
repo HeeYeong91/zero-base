@@ -1,0 +1,35 @@
+
+_
+java:S1854"=Remove this useless assignment to local variable "doubleNum".(é”êÖúÿÿÿÿ8˜€Åºî1
+^
+java:S1854"<Remove this useless assignment to local variable "floatNum".(ø¼•¯ÿÿÿÿÿ8§€Åºî1
+]
+java:S1854";Remove this useless assignment to local variable "longNum".(í‹ºÜıÿÿÿÿ8§€Åºî1
+@	java:S106"+Replace this use of System.out by a logger.(ø‡½ö
+G	java:S106"+Replace this use of System.out by a logger.(ÆËî8¨€Åºî1
+L	java:S106"+Replace this use of System.out by a logger.(ÜÚóÔùÿÿÿÿ8©€Åºî1
+L	java:S106"+Replace this use of System.out by a logger.(êĞÍ úÿÿÿÿ8©€Åºî1
+L	java:S106"+Replace this use of System.out by a logger.(À¾ş×ùÿÿÿÿ8©€Åºî1
+L	java:S106"+Replace this use of System.out by a logger.(ÇñªÂÿÿÿÿÿ8©€Åºî1
+N
+java:S1481",Remove this unused "longNum" local variable.(í‹ºÜıÿÿÿÿ8ª€Åºî1
+O
+java:S1481"-Remove this unused "floatNum" local variable.(ø¼•¯ÿÿÿÿÿ8ª€Åºî1
+P
+java:S1481".Remove this unused "doubleNum" local variable.(é”êÖúÿÿÿÿ8ª€Åºî1
+L	java:S106"+Replace this use of System.out by a logger.(şÈÜ±ûÿÿÿÿ8«€Åºî1
+G	java:S106"+Replace this use of System.out by a logger.(éıÚÚ8«€Åºî1
+L	java:S106"+Replace this use of System.out by a logger.(·ÛÌûÿÿÿÿ8«€Åºî1
+G	java:S106 "+Replace this use of System.out by a logger.(è––Í8«€Åºî1
+G	java:S106""+Replace this use of System.out by a logger.(°¨…Ù8¬€Åºî1
+G	java:S106$"+Replace this use of System.out by a logger.(Ì¹÷‰8¬€Åºî1
+L	java:S106%"+Replace this use of System.out by a logger.(öà¨ÿÿÿÿÿ8¬€Åºî1
+G	java:S106&"+Replace this use of System.out by a logger.(Ê­ƒ¢8¬€Åºî1
+E	java:S106*"+Replace this use of System.out by a logger.(ÔÀ–ùÿÿÿÿ
+L	java:S106,"+Replace this use of System.out by a logger.(¡·›şÿÿÿÿ8­€Åºî1
+L	java:S106."+Replace this use of System.out by a logger.(âØêšùÿÿÿÿ8­€Åºî1
+E	java:S1062"+Replace this use of System.out by a logger.(•íÄ¼ıÿÿÿÿ
+G	java:S1064"+Replace this use of System.out by a logger.(ûÌ…­8­€Åºî1
+G	java:S1066"+Replace this use of System.out by a logger.(ÿ˜‹õ8®€Åºî1
+L	java:S1067"+Replace this use of System.out by a logger.(Á²åúÿÿÿÿ8®€Åºî1
+G	java:S1068"+Replace this use of System.out by a logger.(‚¨³Õ8®€Åºî1
