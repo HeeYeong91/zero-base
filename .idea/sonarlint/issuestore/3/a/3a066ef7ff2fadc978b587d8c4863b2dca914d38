@@ -1,0 +1,17 @@
+
+^
+java:S6208O"CMerge the previous cases into this one using comma-separated label.(òï±êÿÿÿÿÿ
+O
+java:S1854K"9Remove this useless assignment to local variable "grade".(™¡ñ
+@	java:S106"+Replace this use of System.out by a logger.(€Äüé
+@	java:S106"+Replace this use of System.out by a logger.(üÔÒª
+@	java:S106"+Replace this use of System.out by a logger.(Â–ÆÇ
+E	java:S106"+Replace this use of System.out by a logger.(ØÒó×ùÿÿÿÿ
+@	java:S106""+Replace this use of System.out by a logger.(¸ª²Ù
+E	java:S106("+Replace this use of System.out by a logger.(ÇíÖˆüÿÿÿÿ
+E	java:S106+"+Replace this use of System.out by a logger.(œƒı˜ûÿÿÿÿ
+E	java:S106."+Replace this use of System.out by a logger.(õşØÓùÿÿÿÿ
+@	java:S1066"+Replace this use of System.out by a logger.(ô©Œ‚
+E	java:S1068"+Replace this use of System.out by a logger.(²ÇñÙşÿÿÿÿ
+V	java:S125="<This block of commented-out lines of code should be removed.(¿ş–‚ùÿÿÿÿ
+E	java:S106\"+Replace this use of System.out by a logger.(ØÒó×ùÿÿÿÿ
