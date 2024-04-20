@@ -1,0 +1,16 @@
+
+–
+java:S1104"NMake a1 a static final constant or non-public and provide accessors if needed.(¾è´°ûÿÿÿÿ8“øÆÚï1J$1c9056a5-1894-4a70-99c9-e1462e01ca5a
+r	java:S106"+Replace this use of System.out by a logger.(º¸óäıÿÿÿÿ8¦øÆÚï1J$c9087e8e-e8a2-421f-88e5-559206689ecb
+r	java:S106"+Replace this use of System.out by a logger.(Î­¢üÿÿÿÿ8§øÆÚï1J$4625d0e9-dd01-4101-9299-4f9fb7c52823
+m	java:S106"+Replace this use of System.out by a logger.(ÊÊ¸³8§øÆÚï1J$ce9fdeca-cabb-406c-ab48-7ba46ee1ef30
+m
+java:S2387 "*"name" is the name of a field in "Person".(Ê§…ñ8©øÆÚï1J$986b7fa4-94ff-401f-929b-b5a47fc53943
+m	java:S106."+Replace this use of System.out by a logger.(´îÇ–8¬øÆÚï1J$3099fff1-6624-4acb-a0f6-673eed334b3c
+r	java:S106/"+Replace this use of System.out by a logger.(Î­¢üÿÿÿÿ8­øÆÚï1J$2a41b3a2-b6b5-4f83-a3f0-74be09788762
+m	java:S1060"+Replace this use of System.out by a logger.(ÊÊ¸³8èåÉÚï1J$54f29dd0-4a37-4e67-8257-7562eb6e4246
+l	java:S1061"+Replace this use of System.out by a logger.(ºóõn8ŠµÊÚï1J$8e74b998-8c6a-401a-88b9-0f761d360160
+m	java:S106="+Replace this use of System.out by a logger.(Õñ‚—8ŒµÊÚï1J$c6ac284f-3856-4ce5-9d23-6cf9c7fde3da
+m	java:S106E"+Replace this use of System.out by a logger.(Õñ‚—8µÊÚï1J$9637016f-584b-49bc-a693-798132b52132
+n
+java:S1068"&Remove this unused "a2" private field.(˜¦Èèúÿÿÿÿ8°øÆÚï1J$893af0a7-ab57-438e-9316-4db663edbf68

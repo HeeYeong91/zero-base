@@ -1,0 +1,49 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(×Øóüÿÿÿÿ8¯‹†Ûï1J$3728ada2-8557-4a36-81ec-2018f38aaaca
+m	java:S106"+Replace this use of System.out by a logger.(Î›öÍ8±‹†Ûï1J$43856eae-097a-4a25-8265-a0141bd461a9
+r	java:S106"+Replace this use of System.out by a logger.(õ‚Àüÿÿÿÿ8²‹†Ûï1J$98ad3ad3-8af3-4b61-adf1-846511c98b00
+r	java:S106"+Replace this use of System.out by a logger.(Êƒ«Ôşÿÿÿÿ8´‹†Ûï1J$67a7680a-d41e-4d70-85da-81873b1e1079
+
+java:S1854F"7Remove this useless assignment to local variable "cc2".(õï–›øÿÿÿÿ8·‹†Ûï1J$c6de96dd-6108-478e-b344-cb201b2a745a
+
+java:S1854C"7Remove this useless assignment to local variable "ss1".(ã¬Ï üÿÿÿÿ8·‹†Ûï1J$68e15d43-90d5-44f7-b883-087aa3c98c61
+z
+java:S1854A"7Remove this useless assignment to local variable "ss1".(ı“Ïü8¸‹†Ûï1J$d21fd2cc-bd4f-43dd-86e3-e6c1043e9897
+
+java:S1854?"7Remove this useless assignment to local variable "pp1".(¡‚ØÊÿÿÿÿÿ8¸‹†Ûï1J$ef4b0b0b-af7e-410b-a179-91b597dd9da1
+z
+java:S1854>"7Remove this useless assignment to local variable "pp1".(Ë£µ8¸‹†Ûï1J$6b0d2f9c-cbc6-4c92-be99-0079311186fd
+{
+java:S1854_"8Remove this useless assignment to local variable "stu1".(çâ·8¸‹†Ûï1J$d3a198a7-b777-4bf4-ab39-ae71c4e87fa1
+{
+java:S1854c"8Remove this useless assignment to local variable "per1".(§™ø¬8¸‹†Ûï1J$01587a82-5ae2-484e-bc86-9554044b0307
+r	java:S106#"+Replace this use of System.out by a logger.(¡ÅşØøÿÿÿÿ8º‹†Ûï1J$7e9d0c05-ced0-490c-8e82-48e372161dda
+m	java:S1066"+Replace this use of System.out by a logger.(²ã©ñ8»‹†Ûï1J$9e07c605-9c5d-45cc-afc4-8a8055302d5e
+p
+java:S14817"(Remove this unused "pp1" local variable.(ÆÈšÛşÿÿÿÿ8¼‹†Ûï1J$ff8764ac-662d-451f-9860-5cc20d8e12e9
+p
+java:S14818"(Remove this unused "ss1" local variable.(èş™üÿÿÿÿ8¼‹†Ûï1J$8b419149-d12b-4af0-bd56-421c36ee5908
+~	java:S125B"<This block of commented-out lines of code should be removed.(º ˜¬8¾‹†Ûï1J$20386684-66c2-41b5-95d6-6816b017ba44
+p
+java:S1481E"(Remove this unused "cc1" local variable.(ÏÎÆòùÿÿÿÿ8¿‹†Ûï1J$89657a46-2c19-478b-abe7-98ccc0839429
+p
+java:S1481F"(Remove this unused "cc2" local variable.(õï–›øÿÿÿÿ8¿‹†Ûï1J$1dd28cf4-2794-4ad7-a915-7e0fd28dfae2
+m	java:S106L"+Replace this use of System.out by a logger.(åµ¦€8¿‹†Ûï1J$e26cf355-2ca4-4ed3-874f-b01e4239c106
+m	java:S106R"+Replace this use of System.out by a logger.(Ôé¾â8À‹†Ûï1J$aef1f8d5-e5f2-492c-a5d4-b43f9238eb1c
+m	java:S106S"+Replace this use of System.out by a logger.(è°Ù–8À‹†Ûï1J$d308b677-90ea-4ade-afd3-1f7cd255dc02
+r	java:S106U"+Replace this use of System.out by a logger.(ª»ÁÔûÿÿÿÿ8À‹†Ûï1J$0e0d4c4e-cff5-44cc-9acb-225332882ee9
+r	java:S106V"+Replace this use of System.out by a logger.(–¡“ïûÿÿÿÿ8À‹†Ûï1J$1f0f9ca9-80e8-4319-8a1b-cd81a56fccf3
+m	java:S106X"+Replace this use of System.out by a logger.(»¬¦8Â‹†Ûï1J$a5665ad1-fd64-41ea-b8c4-f59f03da6de1
+r	java:S106Y"+Replace this use of System.out by a logger.(ÚÜï“üÿÿÿÿ8Â‹†Ûï1J$c4b0fc28-ed3b-4f63-bf03-ab7b815bdfe9
+r	java:S106["+Replace this use of System.out by a logger.(ÛÇ÷Ñúÿÿÿÿ8Â‹†Ûï1J$f737a554-b0ed-4905-b805-f212216fd6a8
+r	java:S106\"+Replace this use of System.out by a logger.(ÆÛ³şüÿÿÿÿ8Ã‹†Ûï1J$474fae6f-92f5-4e7c-98ea-d3421a152a45
+ˆ
+java:S6201^"EReplace this instanceof check and cast with 'instanceof Student stu1'(Á¥Ãª8È‹†Ûï1J$6a0e0f27-277e-4e28-87ee-a971c35f31c1
+l
+java:S1481_")Remove this unused "stu1" local variable.(çâ·8È‹†Ûï1J$3daeaf30-7726-4606-9544-67d84b993c69
+Œ
+java:S6201b"DReplace this instanceof check and cast with 'instanceof Person per1'(ÕÜè·üÿÿÿÿ8È‹†Ûï1J$a256ad22-4c58-4863-83ee-e8862da32422
+l
+java:S1905c")Remove this unnecessary cast to "Person".(§™ø¬8Ê‹†Ûï1J$2de96042-ff46-4f70-9fea-9241c9acf9e6
+l
+java:S1481c")Remove this unused "per1" local variable.(§™ø¬8Ê‹†Ûï1J$7c8f2765-9c92-4ac6-9a6b-735088ad8b28
