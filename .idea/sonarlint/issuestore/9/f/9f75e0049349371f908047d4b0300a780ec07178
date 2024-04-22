@@ -1,0 +1,49 @@
+
+E	java:S106"+Replace this use of System.out by a logger.(×Øóüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Î›öÍ
+E	java:S106"+Replace this use of System.out by a logger.(õ‚Àüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Êƒ«Ôşÿÿÿÿ
+R
+java:S1854F"7Remove this useless assignment to local variable "cc2".(õï–›øÿÿÿÿ
+R
+java:S1854C"7Remove this useless assignment to local variable "ss1".(ã¬Ï üÿÿÿÿ
+M
+java:S1854A"7Remove this useless assignment to local variable "ss1".(ı“Ïü
+R
+java:S1854?"7Remove this useless assignment to local variable "pp1".(¡‚ØÊÿÿÿÿÿ
+M
+java:S1854>"7Remove this useless assignment to local variable "pp1".(Ë£µ
+N
+java:S1854_"8Remove this useless assignment to local variable "stu1".(çâ·
+N
+java:S1854c"8Remove this useless assignment to local variable "per1".(§™ø¬
+E	java:S106#"+Replace this use of System.out by a logger.(¡ÅşØøÿÿÿÿ
+@	java:S1066"+Replace this use of System.out by a logger.(²ã©ñ
+C
+java:S14817"(Remove this unused "pp1" local variable.(ÆÈšÛşÿÿÿÿ
+C
+java:S14818"(Remove this unused "ss1" local variable.(èş™üÿÿÿÿ
+Q	java:S125B"<This block of commented-out lines of code should be removed.(º ˜¬
+C
+java:S1481E"(Remove this unused "cc1" local variable.(ÏÎÆòùÿÿÿÿ
+C
+java:S1481F"(Remove this unused "cc2" local variable.(õï–›øÿÿÿÿ
+@	java:S106L"+Replace this use of System.out by a logger.(åµ¦€
+@	java:S106R"+Replace this use of System.out by a logger.(Ôé¾â
+@	java:S106S"+Replace this use of System.out by a logger.(è°Ù–
+E	java:S106U"+Replace this use of System.out by a logger.(ª»ÁÔûÿÿÿÿ
+E	java:S106V"+Replace this use of System.out by a logger.(–¡“ïûÿÿÿÿ
+@	java:S106X"+Replace this use of System.out by a logger.(»¬¦
+E	java:S106Y"+Replace this use of System.out by a logger.(ÚÜï“üÿÿÿÿ
+E	java:S106["+Replace this use of System.out by a logger.(ÛÇ÷Ñúÿÿÿÿ
+E	java:S106\"+Replace this use of System.out by a logger.(ÆÛ³şüÿÿÿÿ
+[
+java:S6201^"EReplace this instanceof check and cast with 'instanceof Student stu1'(Á¥Ãª
+?
+java:S1481_")Remove this unused "stu1" local variable.(çâ·
+_
+java:S6201b"DReplace this instanceof check and cast with 'instanceof Person per1'(ÕÜè·üÿÿÿÿ
+?
+java:S1905c")Remove this unnecessary cast to "Person".(§™ø¬
+?
+java:S1481c")Remove this unused "per1" local variable.(§™ø¬

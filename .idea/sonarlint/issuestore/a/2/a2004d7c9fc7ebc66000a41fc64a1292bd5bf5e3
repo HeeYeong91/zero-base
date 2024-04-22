@@ -1,0 +1,16 @@
+
+i
+java:S1104"NMake a1 a static final constant or non-public and provide accessors if needed.(¾è´°ûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(º¸óäıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Î­¢üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÊÊ¸³
+@
+java:S2387 "*"name" is the name of a field in "Person".(Ê§…ñ
+@	java:S106."+Replace this use of System.out by a logger.(´îÇ–
+E	java:S106/"+Replace this use of System.out by a logger.(Î­¢üÿÿÿÿ
+@	java:S1060"+Replace this use of System.out by a logger.(ÊÊ¸³
+?	java:S1061"+Replace this use of System.out by a logger.(ºóõn
+@	java:S106="+Replace this use of System.out by a logger.(Õñ‚—
+@	java:S106E"+Replace this use of System.out by a logger.(Õñ‚—
+A
+java:S1068"&Remove this unused "a2" private field.(˜¦Èèúÿÿÿÿ
