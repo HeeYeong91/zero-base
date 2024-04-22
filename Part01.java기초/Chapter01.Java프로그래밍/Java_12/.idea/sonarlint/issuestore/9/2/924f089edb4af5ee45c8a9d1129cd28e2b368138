@@ -1,0 +1,20 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(ÎŽšö8ñãª©ð1J$52ce4bdc-8dbe-4474-a881-50e91d3fa104
+m	java:S106*"+Replace this use of System.out by a logger.(Ò²õÙ8ùãª©ð1J$57eb5a5e-3551-423b-beca-129987582fd3
+y
+java:S1854<"6Remove this useless assignment to local variable "p1".(Óþ„á8ûãª©ð1J$c2483236-ed04-471e-9048-a3596c937b6b
+z
+java:S18549"7Remove this useless assignment to local variable "is1".(×øžì8ûãª©ð1J$edf77a75-a7b5-4b3e-8150-698a33bbe446
+y
+java:S18546"6Remove this useless assignment to local variable "i1".(ÊÆÞÂ8ûãª©ð1J$f032fb6f-68eb-4952-b544-e3937eda45e5
+~
+java:S18543"6Remove this useless assignment to local variable "o1".(îÇ™øÿÿÿÿ8ûãª©ð1J$fab0f97d-e0fd-4a6f-9e96-a4d7c0e553a9
+o
+java:S14813"'Remove this unused "o1" local variable.(îÇ™øÿÿÿÿ8ýãª©ð1J$f1bf1b30-38cb-4ed9-bd9c-a17d81acc0bd
+j
+java:S14816"'Remove this unused "i1" local variable.(ÊÆÞÂ8þãª©ð1J$19dae2c8-e2ec-4320-b006-fe2ec766217b
+k
+java:S14819"(Remove this unused "is1" local variable.(×øžì8ÿãª©ð1J$06a249be-b977-48d5-8b70-f119c1859cae
+m	java:S106?"+Replace this use of System.out by a logger.(¿Ó €8‚äª©ð1J$499e9b6e-e272-4c36-b8ce-2be979c2f652
+j
+java:S1481<"'Remove this unused "p1" local variable.(Óþ„á8‚äª©ð1J$b688b049-a4ad-4a67-8802-817299ecacf7

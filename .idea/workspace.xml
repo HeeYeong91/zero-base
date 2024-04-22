@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f909e361-99e1-4231-8dad-8e10deefc51f" name="Changes" comment=":memo: Java - 추상 클래스" />
+    <list default="true" id="f909e361-99e1-4231-8dad-8e10deefc51f" name="Changes" comment=":memo: Java - 인터페이스">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,6 +95,7 @@
       <workItem from="1713531553022" duration="171000" />
       <workItem from="1713614632284" duration="92000" />
       <workItem from="1713776532714" duration="356000" />
+      <workItem from="1713778182823" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary=":memo: Java - 변수와 자료형">
       <option name="closed" value="true" />
@@ -157,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713776829889</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=":memo: Java - 인터페이스">
+      <option name="closed" value="true" />
+      <created>1713778214058</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713778214058</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +207,7 @@
     <MESSAGE value=":memo: Java - 상속과 다형성" />
     <MESSAGE value=":memo: Java - 추상 클래스" />
     <MESSAGE value=":art: gitignore 파일 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value=":art: gitignore 파일 수정" />
+    <MESSAGE value=":memo: Java - 인터페이스" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: Java - 인터페이스" />
   </component>
 </project>
