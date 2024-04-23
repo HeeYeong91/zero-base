@@ -1,0 +1,7 @@
+
+
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Æ¤£Öıÿÿÿÿ8¾ÕÎÑğ1J$07640269-6392-4049-9074-c1e04e34bc31
+”
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(üñú÷şÿÿÿÿ8½ÕÎÑğ1J$0be01d09-9b1d-4e5b-a636-efb44bc79731
+r	java:S106"+Replace this use of System.out by a logger.(µ®€‹ùÿÿÿÿ8ÆÕÎÑğ1J$65809fd9-2f57-4a2a-a8d5-e46af9140ffc
+m	java:S106"+Replace this use of System.out by a logger.(È”½À8ÌÕÎÑğ1J$988d1244-8fbb-4258-8ab0-8b17099133bf

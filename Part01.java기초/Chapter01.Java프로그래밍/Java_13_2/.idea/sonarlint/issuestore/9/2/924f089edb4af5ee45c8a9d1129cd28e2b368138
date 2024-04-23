@@ -1,0 +1,12 @@
+
+Ž
+java:S1192
+"KDefine a constant instead of duplicating this literal "./memo.txt" 5 times.(¼Œºé8éŽ¹Ñð1J$39151e3c-032b-40fa-9379-8ff0a221533e
+Š
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ò£•[8–æºÑð1J$11af70fd-6a73-4b19-9c5b-1436220a3c05
+‹
+java:S2095
+"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(¼Œºé8—æºÑð1J$383c63a5-c662-46c8-9daf-9c05b7532bec
+”
+java:S2095-"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(™‡¹ìøÿÿÿÿ8“µÂÑð1J$8c6ae77f-242b-4290-9d3b-d39a8219beee
+r	java:S1066"+Replace this use of System.out by a logger.(ñ—¸½úÿÿÿÿ8¨µÂÑð1J$0f38e0f1-6feb-471e-8751-3a6c67fdad65
