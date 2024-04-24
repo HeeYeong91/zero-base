@@ -1,0 +1,35 @@
+
+’
+java:S1192_"ODefine a constant instead of duplicating this literal "checkResult = " 3 times.(É˜•£8‰¡Ú€ñ1J$60882808-6fdf-4051-9585-afc4da5e9b64
+‹
+java:S3518D"CMake sure this expression can't be zero before doing this division.(¾Ÿ“ÿÿÿÿÿ8¿ÖÏ€ñ1J$1bccaceb-0917-4199-b52a-2b97a2bab49d
+„
+java:S1126"AReplace this if-then-else statement by a single return statement.(¶…¯8ı”Æ€ñ1J$b46e88ca-e9d1-4cf5-9b46-a0c501f937a6
+r	java:S106'"+Replace this use of System.out by a logger.(»½„Ÿşÿÿÿÿ8†•Æ€ñ1J$46e1d770-9929-47d4-8012-e8f87c7b877b
+}
+java:S1854D"5Remove this useless assignment to local variable "a".(¾Ÿ“ÿÿÿÿÿ8„•Æ€ñ1J$12b06ac7-855f-4bbb-b7d0-3a0c24cb0ef8
+¯
+java:S1130<"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ÎÖÏ€ñ1J$fc56be92-6a9b-4247-a448-1c887798a210
+r	java:S106@"+Replace this use of System.out by a logger.(§š´Ÿûÿÿÿÿ8Š•Æ€ñ1J$c7fdc09c-7deb-41e5-adbe-f070a689ca5f
+ƒ	java:S125A"<This block of commented-out lines of code should be removed.(ı³Ùïÿÿÿÿÿ8ˆ•Æ€ñ1J$e436fb51-f9b3-48d4-8558-4d6a3cc6ebf3
+n
+java:S1481D"&Remove this unused "a" local variable.(¾Ÿ“ÿÿÿÿÿ8Š•Æ€ñ1J$54a42d4b-4018-42d9-8653-cdc7735f9e36
+m	java:S106F"+Replace this use of System.out by a logger.(³æÑ˜8”•Æ€ñ1J$99a76a0e-c5ba-4c4c-b5b4-b5143580c2ce
+r	java:S106G"+Replace this use of System.out by a logger.(»½„Ÿşÿÿÿÿ8••Æ€ñ1J$e07f02f7-6905-45b2-8d08-c0740ad99c7b
+m	java:S106I"+Replace this use of System.out by a logger.(ƒçå‹8–•Æ€ñ1J$e7939f03-2442-443f-9d86-c1bd0f43bda8
+r	java:S106M"+Replace this use of System.out by a logger.(… Œ¼ıÿÿÿÿ8—•Æ€ñ1J$d18d57cb-06b3-453c-8089-b2a19f138fee
+~	java:S125O"<This block of commented-out lines of code should be removed.(ıÛÙ…8–•Æ€ñ1J$5a6a89a7-1b6a-46f2-9704-14ae16bdc2bc
+r	java:S106T"+Replace this use of System.out by a logger.(»½„Ÿşÿÿÿÿ8—•Æ€ñ1J$2791f501-06fa-4fda-bbab-3e0b96ff9f33
+r	java:S106X"+Replace this use of System.out by a logger.(µ‘¼üÿÿÿÿ8˜•Æ€ñ1J$b2baea4e-0a12-493a-bbc9-2d6201dd5c17
+r	java:S106]"+Replace this use of System.out by a logger.(¡çèÈøÿÿÿÿ8™•Æ€ñ1J$6b9cabaf-d2ff-4c6f-bc7e-d321ca08fbd9
+~	java:S125Y"<This block of commented-out lines of code should be removed.(“½Ê8ÆõÇ€ñ1J$b1ee50ac-e163-42cb-892e-a73b8c13e84f
+m	java:S106_"+Replace this use of System.out by a logger.(É˜•£8×œÏ€ñ1J$e9b66b85-abd7-430e-8a65-43440951fe2a
+r	java:S106a"+Replace this use of System.out by a logger.(£÷Ãşÿÿÿÿ8ÛÖÏ€ñ1J$07e90f89-6fe6-4e96-8ce1-d07743651486
+m	java:S106c"+Replace this use of System.out by a logger.(É˜•£8§ŸÓ€ñ1J$f51ea199-dd47-4c16-b7df-c2140e85a0df
+r	java:S106e"+Replace this use of System.out by a logger.(ÎşÿÕşÿÿÿÿ8«Ô€ñ1J$f717db60-9935-409c-9c3a-65b2c36244fe
+r	java:S106j"+Replace this use of System.out by a logger.(»½„Ÿşÿÿÿÿ8­¡Ú€ñ1J$09d0d458-4c7d-4f46-9057-45d0170f3631
+m	java:S106l"+Replace this use of System.out by a logger.(É˜•£8­¡Ú€ñ1J$78ca8eeb-ef24-4c35-bc54-e34f4ebaa31a
+v
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8ÜÖÏ€ñ1J$81a7e130-6338-4547-bcdf-cbf8bf06050e
+w
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8İÖÏ€ñ1J$f2712519-b0d0-4b14-b58c-ed1ed1edd96b
