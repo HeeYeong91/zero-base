@@ -1,0 +1,35 @@
+
+E
+java:S3740$"/Provide the parametrized type for this generic.(õéæ
+E
+java:S3740$"/Provide the parametrized type for this generic.(õéæ
+E	java:S106"+Replace this use of System.out by a logger.(ªç©ıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(íî”Ø
+?	java:S106"+Replace this use of System.out by a logger.(ÇÑ×
+@	java:S106"+Replace this use of System.out by a logger.(ı»Şë
+@	java:S106"+Replace this use of System.out by a logger.(Òà´Ç
+@	java:S106"+Replace this use of System.out by a logger.(âŠ©©
+E	java:S106#"+Replace this use of System.out by a logger.(¤ÖÁµÿÿÿÿÿ
+E	java:S106%"+Replace this use of System.out by a logger.(‘¦ŞÊùÿÿÿÿ
+@	java:S106'"+Replace this use of System.out by a logger.(âŠ©©
+E	java:S106+"+Replace this use of System.out by a logger.(Ä»ÄÄúÿÿÿÿ
+E	java:S1060"+Replace this use of System.out by a logger.(•úŞíşÿÿÿÿ
+@	java:S1065"+Replace this use of System.out by a logger.(ı¤Å‡
+@	java:S106:"+Replace this use of System.out by a logger.(™ûÁš
+E	java:S106A"+Replace this use of System.out by a logger.(şñ¿úÿÿÿÿ
+@	java:S106F"+Replace this use of System.out by a logger.(‡êŞî
+E	java:S106K"+Replace this use of System.out by a logger.(µïœ•şÿÿÿÿ
+@	java:S106R"+Replace this use of System.out by a logger.(İğõë
+?	java:S106W"+Replace this use of System.out by a logger.(ˆÙîD
+E	java:S106\"+Replace this use of System.out by a logger.(°óÃ”üÿÿÿÿ
+@	java:S106a"+Replace this use of System.out by a logger.(ı»Şë
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
+H
+java:S1128"2Remove this unused import 'java.util.OptionalInt'.(š”üÏ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ
+J
+java:S1128	"4Remove this unused import 'java.util.stream.Stream'.(ó÷”
