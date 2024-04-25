@@ -1,0 +1,7 @@
+
+k
+java:S1604"(Make this anonymous inner class a lambda(Ò‘êë8‘¼Â¥ñ1J$8c59907b-4795-444d-a3b3-d8a619805b82
+r	java:S106"+Replace this use of System.out by a logger.(†úÏùÿÿÿÿ8œ¼Â¥ñ1J$4be4abfe-507f-40b0-98f2-46818bbf8610
+›
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(è¬ ‹ÿÿÿÿÿ8øÂ¥ñ1J$0919c62e-4769-4765-90c4-5911f0ed4929
+r	java:S106"+Replace this use of System.out by a logger.(ıàïùÿÿÿÿ8Ÿ¼Â¥ñ1J$04127ca4-36a4-4de0-8c97-e1b0b66d856b

@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f909e361-99e1-4231-8dad-8e10deefc51f" name="Changes" comment=":memo: Java - 예외 처리">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-    </list>
+    <list default="true" id="f909e361-99e1-4231-8dad-8e10deefc51f" name="Changes" comment=":memo: Java - 컬렉션 프레임워크" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +98,7 @@
       <workItem from="1713796124047" duration="39000" />
       <workItem from="1713862359861" duration="73000" />
       <workItem from="1713863195819" duration="73000" />
-      <workItem from="1713962012371" duration="637000" />
+      <workItem from="1713962012371" duration="777000" />
     </task>
     <task id="LOCAL-00001" summary=":memo: Java - 변수와 자료형">
       <option name="closed" value="true" />
@@ -207,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713962053836</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary=":memo: Java - 컬렉션 프레임워크">
+      <option name="closed" value="true" />
+      <created>1713963013986</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713963013986</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +255,7 @@
     <MESSAGE value=":memo: Java - 입출력_1" />
     <MESSAGE value=":memo: Java - 입출력_2" />
     <MESSAGE value=":memo: Java - 예외 처리" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: Java - 예외 처리" />
+    <MESSAGE value=":memo: Java - 컬렉션 프레임워크" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: Java - 컬렉션 프레임워크" />
   </component>
 </project>
