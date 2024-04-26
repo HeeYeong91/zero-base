@@ -1,0 +1,32 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ‚ÌÜüÿÿÿÿ8ßÏÇÎñ1J$6f7fbd45-c4f1-4999-a4dd-da117cc986fa
+˜	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÜìñıÿÿÿÿ8ßÏÇÎñ1J$206c9abb-6e80-4246-8f39-44c48a15b2b1
+r	java:S106"+Replace this use of System.out by a logger.(‘Éİ‰ûÿÿÿÿ8ıÏÇÎñ1J$ee369f1b-8f8b-4a4d-9310-fd54a8e7a80d
+n
+java:S1905
+"&Remove this unnecessary cast to "int".(Åÿ³Èûÿÿÿÿ8‚ĞÇÎñ1J$a97e03b5-03ae-43b7-bc32-4a431b3044e8
+n
+java:S1905
+"&Remove this unnecessary cast to "int".(Åÿ³Èûÿÿÿÿ8ƒĞÇÎñ1J$e23df5f0-fe9f-4018-90c2-6d8fc2f70871
+n
+java:S1905"&Remove this unnecessary cast to "int".(áÃææÿÿÿÿÿ8„ĞÇÎñ1J$bf771aa3-ffbb-4d12-a759-9c94dc94df61
+m	java:S106"+Replace this use of System.out by a logger.(Õ—û¹8‚ĞÇÎñ1J$14036396-dcbc-423c-9330-623cee6b4393
+n
+java:S1905"&Remove this unnecessary cast to "int".(ÿş¸ùÿÿÿÿ8„ĞÇÎñ1J$85f9ecbc-a497-4676-9859-33510f28eb2d
+r	java:S106"+Replace this use of System.out by a logger.(¦æ‰ÿÿÿÿÿ8ƒĞÇÎñ1J$a05caaaf-fc23-4bcd-b90a-d3fc8bc8f5fe
+r	java:S106"+Replace this use of System.out by a logger.(Ì¯¥şÿÿÿÿ8„ĞÇÎñ1J$94e069fc-266d-45a8-a8f0-89183b31fd92
+i
+java:S1905"&Remove this unnecessary cast to "int".(¼Î®8…ĞÇÎñ1J$081e2638-fa7b-446e-ad93-27c57793bbc3
+r	java:S106"+Replace this use of System.out by a logger.(ŞªìÈÿÿÿÿÿ8…ĞÇÎñ1J$d88713cf-48cb-4990-80bc-022d62c2ecd6
+h
+java:S1905"&Remove this unnecessary cast to "int".(ÇÀ–08Ã•ÈÎñ1J$8f3fd391-5f05-4066-bf85-ad190d3f5218
+m	java:S106"+Replace this use of System.out by a logger.(Íäñ–8†ĞÇÎñ1J$cb4f064c-fa30-4ee6-9d20-6d97f3d6479e
+n
+java:S1905"&Remove this unnecessary cast to "int".(Ÿ‚ÌÜüÿÿÿÿ8Ä•ÈÎñ1J$ee6228fc-9d52-4905-bbad-c816a7902a93
+L	java:S106"+Replace this use of System.out by a logger.(çûĞçøÿÿÿÿ8ÑÑÍÎñ1
+n
+java:S1905 "&Remove this unnecessary cast to "int".(èÜìñıÿÿÿÿ8ÒåÉÎñ1J$acea5610-3d2b-47c3-868c-d08dfa2c7f7e
+L	java:S106!"+Replace this use of System.out by a logger.(Ãÿ’¡ıÿÿÿÿ8ÓÑÍÎñ1
+H
+java:S1905""&Remove this unnecessary cast to "int".(ùıÉ¤øÿÿÿÿ8ÓÑÍÎñ1
+G	java:S106#"+Replace this use of System.out by a logger.(ü¤Æˆ8ÔÑÍÎñ1
