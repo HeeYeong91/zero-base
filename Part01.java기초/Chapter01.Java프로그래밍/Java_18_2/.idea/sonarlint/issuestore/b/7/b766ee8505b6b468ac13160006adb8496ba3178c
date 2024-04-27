@@ -1,0 +1,9 @@
+
+¢
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ÿ¸Ô¶8­óñ1J$87c353e6-a01d-4dc6-a326-7708e3080d31
+¡
+java:S3012	"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¡ÌëĞüÿÿÿÿ8¬­óñ1J$b711821f-089a-4622-98db-1ef3dcda24ff
+r	java:S106)"+Replace this use of System.out by a logger.(•ÍÓöûÿÿÿÿ8¼­óñ1J$76b0bdc4-651a-4be2-a31a-20ca2ced52ca
+r	java:S106*"+Replace this use of System.out by a logger.(ğ€Ÿøøÿÿÿÿ8Ì­óñ1J$9b5b4dde-47b6-498e-8bb3-219a7f99ae7e
+r	java:S106+"+Replace this use of System.out by a logger.(†íµêıÿÿÿÿ8Í­óñ1J$fe7dcd35-aabf-4c97-98c4-5aebd051f914
+r	java:S106,"+Replace this use of System.out by a logger.(€£€öÿÿÿÿÿ8Î­óñ1J$97cb37c9-b5b1-44f3-b701-5724993bffe4

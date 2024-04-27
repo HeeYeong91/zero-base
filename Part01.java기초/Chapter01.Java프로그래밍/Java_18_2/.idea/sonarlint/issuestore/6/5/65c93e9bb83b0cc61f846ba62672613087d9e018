@@ -1,0 +1,18 @@
+
+›	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¾ñŸ›8æ–ßóñ1J$88b4c89a-918e-4aa2-ba76-454c53355f81
+¢
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8º˜ßóñ1J$89f85cd4-8cc4-4fda-8ccb-235eb5e8562a
+¢
+java:S1149R"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ò ‚ê8º˜ßóñ1J$87e9b89a-58ec-4058-9916-20f8073e1f96
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÚÜô‹úÿÿÿÿ8¼˜ßóñ1J$25c0616d-5d8e-4e75-b4e4-0b464c735c78
+i
+java:S1905"&Remove this unnecessary cast to "int".(±¹ø8Á˜ßóñ1J$80ba583c-1cf5-4838-a4b9-5d159bd25884
+i
+java:S1125S"'Remove the unnecessary boolean literal.(şÎ†g8Æ˜ßóñ1J$78250f8b-cd3c-482f-bea9-c60a7ab2ef52
+r	java:S106]"+Replace this use of System.out by a logger.(§½ëıÿÿÿÿ8È˜ßóñ1J$bc5c5da2-6550-4e3c-ba22-4d9d8a1c6c91
+r	java:S106`"+Replace this use of System.out by a logger.(§½ëıÿÿÿÿ8É˜ßóñ1J$92a1aaa2-4920-4d78-bde5-607506f19153
+r	java:S106c"+Replace this use of System.out by a logger.(§½ëıÿÿÿÿ8É˜ßóñ1J$5d02cd18-47b9-49f3-9759-2ec912b15ad5
+r	java:S106f"+Replace this use of System.out by a logger.(§½ëıÿÿÿÿ8É˜ßóñ1J$848bec32-cf20-4d4c-8cc1-38d384ebed9e
+
+java:S6541"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 68 to 64, Complexity from 21 to 14, Nesting Level from 3 to 2, Number of Variables from 19 to 6.(ÚÜô‹úÿÿÿÿ8ğèåóñ1J$c6fed7b7-1f55-48ea-90d8-e874c5f1277b
