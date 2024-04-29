@@ -1,0 +1,8 @@
+
+˜
+java:S3655 "PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ò·×Üøÿÿÿÿ8àû–Æò1J$2aff5fca-c2df-4a25-8cfb-38b64983217f
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¯‘Âä8æû–Æò1J$886e3cee-310b-4f06-8a65-69f3fe269e46
+†
+java:S1155$">Use isEmpty() to check whether the collection is empty or not.(ÙÝí²üÿÿÿÿ8ñû–Æò1J$cc99790c-08c9-4432-a7e2-6c3755cd75cb
+L	java:S1064"+Replace this use of System.out by a logger.(®ýáëûÿÿÿÿ8³º˜Æò1

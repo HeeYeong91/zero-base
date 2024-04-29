@@ -1,0 +1,9 @@
+
+¸
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(œ£û„ûÿÿÿÿ8Ï¯Æò1J$a5c5661c-d677-406f-b178-f6d697a816ce
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(œ£û„ûÿÿÿÿ8úŸ³Æò1J$425b1d68-b894-4b1a-a7cc-f8503051df70
+n
+java:S1168"+Return an empty collection instead of null.(¥¹ï8í¯Æò1J$2d7a8280-a38b-4d37-a787-3da16b51379c
+m	java:S106/"+Replace this use of System.out by a logger.(ÃıØÓ8ò¯Æò1J$b0a8a5b8-649f-4930-a1a5-00d1a3a57f88
+m	java:S1062"+Replace this use of System.out by a logger.(ÃıØÓ8ò¯Æò1J$fb3a84e4-baaf-44c5-b81d-0800dd985569
