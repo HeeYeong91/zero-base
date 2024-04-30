@@ -1,0 +1,7 @@
+
+?	java:S106	"+Replace this use of System.out by a logger.(§‡Y
+@	java:S106"+Replace this use of System.out by a logger.(Û÷Æœ
+@	java:S106"+Replace this use of System.out by a logger.(¬©®í
+@	java:S106"+Replace this use of System.out by a logger.(ÖÒ‹ş
+R
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ

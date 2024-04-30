@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f909e361-99e1-4231-8dad-8e10deefc51f" name="Changes" comment=":memo: 기초 수학 - 집합">
+    <list default="true" id="f909e361-99e1-4231-8dad-8e10deefc51f" name="Changes" comment=":memo: 기초 수학 - 경우의 수">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +111,7 @@
       <workItem from="1714204213128" duration="51000" />
       <workItem from="1714376926129" duration="58000" />
       <workItem from="1714458110696" duration="209000" />
-      <workItem from="1714459798525" duration="653000" />
+      <workItem from="1714459798525" duration="1307000" />
     </task>
     <task id="LOCAL-00001" summary=":memo: Java - 변수와 자료형">
       <option name="closed" value="true" />
@@ -271,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714459854042</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary=":memo: 기초 수학 - 경우의 수">
+      <option name="closed" value="true" />
+      <created>1714460950935</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1714460950935</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,6 +331,7 @@
     <MESSAGE value=":memo: Java - 연습 문제 풀이_2" />
     <MESSAGE value=":memo: Java - 연습 문제 풀이_3" />
     <MESSAGE value=":memo: 기초 수학 - 집합" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초 수학 - 집합" />
+    <MESSAGE value=":memo: 기초 수학 - 경우의 수" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초 수학 - 경우의 수" />
   </component>
 </project>
