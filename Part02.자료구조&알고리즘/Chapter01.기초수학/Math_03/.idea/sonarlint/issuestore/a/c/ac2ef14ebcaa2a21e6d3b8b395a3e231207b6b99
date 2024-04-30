@@ -1,0 +1,29 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(½»ŞÜ
+J
+java:S3740"/Provide the parametrized type for this generic.(üçÚÙøÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(üçÚÙøÿÿÿÿ
+J
+java:S3740."/Provide the parametrized type for this generic.(å’ó¥ıÿÿÿÿ
+E
+java:S3740/"/Provide the parametrized type for this generic.(”«û‡
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(½»ŞÜ
+y
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(üçÚÙøÿÿÿÿ
+v
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "gcd".(öô±ùÿÿÿÿ
+v
+java:S1488 "[Immediately return this expression instead of assigning it to the temporary variable "lcm".(øŒŒÚûÿÿÿÿ
+@
+java:S1172"*Remove this unused method parameter "num".(½»ŞÜ
+K
+java:S1172"5Remove these unused method parameters "numA", "numB".(£½«›
+P
+java:S1172"5Remove these unused method parameters "numA", "numB".(àåõşÿÿÿÿ
+E	java:S1060"+Replace this use of System.out by a logger.(¯¿‰ùøÿÿÿÿ
+@	java:S1061"+Replace this use of System.out by a logger.(æÆ×
+E	java:S1063"+Replace this use of System.out by a logger.(ù°’éúÿÿÿÿ
+E	java:S1064"+Replace this use of System.out by a logger.(¸ÍóÒùÿÿÿÿ

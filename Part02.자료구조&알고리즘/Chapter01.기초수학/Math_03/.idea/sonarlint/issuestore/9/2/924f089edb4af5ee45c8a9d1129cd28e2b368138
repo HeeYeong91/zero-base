@@ -1,0 +1,27 @@
+
+Q
+java:S1854!"6Remove this useless assignment to local variable "nB".(Ş–‚„úÿÿÿÿ
+Q
+java:S1854 "6Remove this useless assignment to local variable "nA".(¨ÍÀÁıÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "dice2".(òäçÛúÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "dice1".(Ú‹¢¬ûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(üæ
+E
+java:S1481"*Remove this unused "dice1" local variable.(Ú‹¢¬ûÿÿÿÿ
+E
+java:S1481"*Remove this unused "dice2" local variable.(òäçÛúÿÿÿÿ
+B
+java:S1481"'Remove this unused "nA" local variable.(–áÈ¿şÿÿÿÿ
+B
+java:S1481"'Remove this unused "nB" local variable.(–×½ºøÿÿÿÿ
+F
+java:S1481"+Remove this unused "nAandB" local variable.(ˆ­£®ÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(µùó®
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+C
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX
