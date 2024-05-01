@@ -1,0 +1,17 @@
+
+P
+java:S1854"5Remove this useless assignment to local variable "r".(™âæóúÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "n".(ş²³
+P
+java:S1854
+"5Remove this useless assignment to local variable "r".(ü¸¡æüÿÿÿÿ
+K
+java:S1854	"5Remove this useless assignment to local variable "n".(Î·Íâ
+E	java:S106"+Replace this use of System.out by a logger.(–¸äÆşÿÿÿÿ
+<
+java:S1481	"&Remove this unused "n" local variable.(Î·Íâ
+A
+java:S1481
+"&Remove this unused "r" local variable.(ü¸¡æüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(îúíìşÿÿÿÿ
