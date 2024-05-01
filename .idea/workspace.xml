@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f909e361-99e1-4231-8dad-8e10deefc51f" name="Changes" comment=":memo: 기초 수학 - 조합">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="f909e361-99e1-4231-8dad-8e10deefc51f" name="Changes" comment=":memo: 기초 수학 - 점화식과 재귀함수">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +37,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2f80Z35koGJZFgmReBhHCo7A1UB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -112,7 +113,7 @@
       <workItem from="1714376926129" duration="58000" />
       <workItem from="1714458110696" duration="209000" />
       <workItem from="1714459798525" duration="1374000" />
-      <workItem from="1714554868679" duration="1212000" />
+      <workItem from="1714554868679" duration="1832000" />
     </task>
     <task id="LOCAL-00001" summary=":memo: Java - 변수와 자료형">
       <option name="closed" value="true" />
@@ -298,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714555817818</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary=":memo: 기초 수학 - 점화식과 재귀함수">
+      <option name="closed" value="true" />
+      <created>1714556651063</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1714556651063</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,6 +360,7 @@
     <MESSAGE value=":memo: 기초 수학 - 경우의 수" />
     <MESSAGE value=":memo: 기초 수학 - 순열" />
     <MESSAGE value=":memo: 기초 수학 - 조합" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초 수학 - 조합" />
+    <MESSAGE value=":memo: 기초 수학 - 점화식과 재귀함수" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초 수학 - 점화식과 재귀함수" />
   </component>
 </project>
