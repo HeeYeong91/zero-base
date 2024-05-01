@@ -1,0 +1,10 @@
+
+U
+java:S1854#":Remove this useless assignment to local variable "result".(üø¤ðùÿÿÿÿ
+P
+java:S1854""5Remove this useless assignment to local variable "n".(î­“Ûøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÇÈ…þøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(®ýáëûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(µˆý“ùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(®ýáëûÿÿÿÿ
+E	java:S106 "+Replace this use of System.out by a logger.(€€Ä¡øÿÿÿÿ

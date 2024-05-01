@@ -2672,3 +2672,35 @@ MPart02.자료구조&알고리즘/Chapter01.기초수학/Math_04/src/Main.java,
 KPart02.자료구조&알고리즘/Chapter01.기초수학/Math_04/Math_04.iml,2\5\25ab85955b6dbc2b61d37d945e876b51d30d7c9a
 �
 RPart02.자료구조&알고리즘/Chapter01.기초수학/Math_04/src/Practice2.java,0\f\0f8d51f0392c75cd2cc0c7392a2056976add84b7
+�
+�Part02.자료구조&알고리즘/Chapter01.기초수학/Math_05/.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138,2\4\24ad88ed95a191d51c61084edf9ddf6f25706884
+{
+KPart02.자료구조&알고리즘/Chapter01.기초수학/Math_05/Math_05.iml,6\0\6007bbe6392cefcd0f03764bbcb50fd9464f1e2e
+�
+mPart02.자료구조&알고리즘/Chapter01.기초수학/Math_05/.idea/sonarlint/securityhotspotstore/index.pb,b\a\ba3dc42f80ce738317aab43837fa34e63ec85b66
+�
+cPart02.자료구조&알고리즘/Chapter01.기초수학/Math_05/.idea/sonarlint/issuestore/index.pb,8\d\8d28339a3fd9c30d931283de66be1cab96e8c34d
+�
+QPart02.자료구조&알고리즘/Chapter01.기초수학/Math_05/src/Practice.java,c\5\c5b6c0e7a7c17baf2bef12564ed7faca73b7a3a4
+�
+�Part02.자료구조&알고리즘/Chapter01.기초수학/Math_05/.idea/sonarlint/securityhotspotstore/a/c/ac2ef14ebcaa2a21e6d3b8b395a3e231207b6b99,e\5\e583be27469e97f472f35e60d7e126a9b7434dac
+}
+MPart02.자료구조&알고리즘/Chapter01.기초수학/Math_05/src/Main.java,9\2\92e7a0e91f3e3d08901069a4eb4a6c799ac2afac
+{
+KPart02.자료구조&알고리즘/Chapter01.기초수학/Math_06/Math_06.iml,2\1\2139afc737458ae24cbf6fb87bcb5d6723338568
+�
+�Part02.자료구조&알고리즘/Chapter01.기초수학/Math_06/.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138,0\c\0ce41bddc1c77e9936b95f60b406207b69250daf
+�
+cPart02.자료구조&알고리즘/Chapter01.기초수학/Math_06/.idea/sonarlint/issuestore/index.pb,8\8\88cd523bdffe512de52ff1f731d28d31e316efc5
+�
+RPart02.자료구조&알고리즘/Chapter01.기초수학/Math_06/src/Practice1.java,b\8\b827c3e2aa291578f8e144bf2937ab302c798961
+�
+mPart02.자료구조&알고리즘/Chapter01.기초수학/Math_06/.idea/sonarlint/securityhotspotstore/index.pb,6\5\65cd7f5c397bdf017deb2aa4f9a29e17c2f5e434
+�
+RPart02.자료구조&알고리즘/Chapter01.기초수학/Math_06/src/Practice2.java,a\e\ae7fb3a1f176ad44455b5f2ce5e780a09cc29640
+�
+�Part02.자료구조&알고리즘/Chapter01.기초수학/Math_06/.idea/sonarlint/securityhotspotstore/e/b/ebe14f0b8976d73e46229e844ca3070c86fa6982,1\8\18d9cf4cb29381ae8c8cd14d58c91ae21a673d1e
+}
+MPart02.자료구조&알고리즘/Chapter01.기초수학/Math_06/src/Main.java,5\c\5c1bfb7552a4e2910ca8fe0aaaf469e85c50687d
+�
+�Part02.자료구조&알고리즘/Chapter01.기초수학/Math_06/.idea/sonarlint/securityhotspotstore/f/5/f58cd37e55b15abcbea6a2c37e29cbcd6237c586,4\3\43ee346a3a0382522b52aa4d692d498a64d9df45
