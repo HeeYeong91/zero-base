@@ -1,0 +1,18 @@
+
+O
+java:S3400"9Remove this method and declare a constant for this value.(”·³›
+A
+java:S1172"+Remove this unused method parameter "grid".( §ø 
+O
+java:S3400"9Remove this method and declare a constant for this value.(”·³›
+A
+java:S1172	"+Remove this unused method parameter "grid".(˜×§¶
+O
+java:S3400"9Remove this method and declare a constant for this value.(”·³›
+`
+java:S1172"ERemove these unused method parameters "grid", "directions", "i", "j".(÷€òÞøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¸ó¬þûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(€‘ö¨
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¸ó¬þûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(€‘ö¨

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f909e361-99e1-4231-8dad-8e10deefc51f" name="Changes" comment=":memo: 기초 수학 - 점화식과 재귀함수">
+    <list default="true" id="f909e361-99e1-4231-8dad-8e10deefc51f" name="Changes" comment=":memo: 기초 수학 - 알고리즘 복잡도">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +113,8 @@
       <workItem from="1714376926129" duration="58000" />
       <workItem from="1714458110696" duration="209000" />
       <workItem from="1714459798525" duration="1374000" />
-      <workItem from="1714554868679" duration="1832000" />
+      <workItem from="1714554868679" duration="2405000" />
+      <workItem from="1714633532046" duration="600000" />
     </task>
     <task id="LOCAL-00001" summary=":memo: Java - 변수와 자료형">
       <option name="closed" value="true" />
@@ -307,7 +308,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714556651063</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary=":memo: 기초 수학 - 지수와 로그">
+      <option name="closed" value="true" />
+      <created>1714557539184</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1714557539184</updated>
+    </task>
+    <task id="LOCAL-00026" summary=":memo: 기초 수학 - 알고리즘 복잡도">
+      <option name="closed" value="true" />
+      <created>1714558068607</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1714558068607</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,7 +354,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":memo: Java - 변수와 자료형" />
     <MESSAGE value=":memo: Java - 변수와 자료형 학습" />
     <MESSAGE value=":memo: Java - 연산자" />
     <MESSAGE value=":memo: Java - 조건문과 반복문" />
@@ -361,6 +377,8 @@
     <MESSAGE value=":memo: 기초 수학 - 순열" />
     <MESSAGE value=":memo: 기초 수학 - 조합" />
     <MESSAGE value=":memo: 기초 수학 - 점화식과 재귀함수" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초 수학 - 점화식과 재귀함수" />
+    <MESSAGE value=":memo: 기초 수학 - 지수와 로그" />
+    <MESSAGE value=":memo: 기초 수학 - 알고리즘 복잡도" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 기초 수학 - 알고리즘 복잡도" />
   </component>
 </project>

@@ -1,0 +1,13 @@
+
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ÿ³¾­şÿÿÿÿ
+I
+java:S1172".Remove this unused method parameter "numRows".(Ÿ³¾­şÿÿÿÿ
+A
+java:S1168"+Return an empty collection instead of null.(¥¹ï
+@	java:S106
+"+Replace this use of System.out by a logger.(íÅŸ«
+E	java:S106"+Replace this use of System.out by a logger.(Ç¸Ù˜ùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ºÅóûÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÑÅ
+@	java:S106"+Replace this use of System.out by a logger.(†ù„÷

@@ -1,0 +1,10 @@
+
+N
+java:S3400"9Remove this method and declare a constant for this value.(¸®Ã'
+>
+java:S1172"(Remove this unused method parameter "n".(¹—¦Ã
+E	java:S106"+Replace this use of System.out by a logger.(½øßŒüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ç¸Ù˜ùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ùÊÇ®
+C
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX

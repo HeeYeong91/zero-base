@@ -1,0 +1,21 @@
+
+
+java:S1319	"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(¸‚±ºüÿÿÿÿ
+N
+java:S3400"9Remove this method and declare a constant for this value.(¸®Ã'
+L
+java:S1172"1Remove these unused method parameters "s1", "s2".(ùÔé¬øÿÿÿÿ
+B
+java:S1125"'Remove the unnecessary boolean literal.(ú†Ûûúÿÿÿÿ
+N
+java:S3400"9Remove this method and declare a constant for this value.(¸®Ã'
+L
+java:S1172"1Remove these unused method parameters "s1", "s2".(à¸„éùÿÿÿÿ
+@	java:S106#"+Replace this use of System.out by a logger.(€²–
+@	java:S106$"+Replace this use of System.out by a logger.(ÕàÃæ
+E	java:S106%"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+@	java:S106)"+Replace this use of System.out by a logger.(€²–
+@	java:S106*"+Replace this use of System.out by a logger.(ÕàÃæ
+E	java:S106+"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+@	java:S106/"+Replace this use of System.out by a logger.(€²–
+@	java:S1060"+Replace this use of System.out by a logger.(ÕàÃæ
