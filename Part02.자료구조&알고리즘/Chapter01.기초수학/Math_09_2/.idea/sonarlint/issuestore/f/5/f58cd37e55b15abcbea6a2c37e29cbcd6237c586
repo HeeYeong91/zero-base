@@ -1,0 +1,9 @@
+
+y
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ó°¬Ñøÿÿÿÿ
+>
+java:S1172"(Remove this unused method parameter "n".(‘Çï”
+@	java:S106"+Replace this use of System.out by a logger.(áô”É
+E	java:S106"+Replace this use of System.out by a logger.(Ç¸Ù˜ùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(†ù„÷
+E	java:S106"+Replace this use of System.out by a logger.(¶üÇŠùÿÿÿÿ

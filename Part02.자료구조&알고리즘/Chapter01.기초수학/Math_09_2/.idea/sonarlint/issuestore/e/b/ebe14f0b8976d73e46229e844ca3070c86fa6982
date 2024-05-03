@@ -1,0 +1,19 @@
+
+O
+java:S3400"9Remove this method and declare a constant for this value.(”·³›
+@
+java:S1172"*Remove this unused method parameter "str".(ü›êÔ
+O
+java:S3400
+"9Remove this method and declare a constant for this value.(”·³›
+b
+java:S1172"GRemove these unused method parameters "left", "right", "arr", "delCnt".(Ä–¬«ùÿÿÿÿ
+>
+java:S1481"(Remove this unused "str" local variable.(æ¤»È
+E	java:S106"+Replace this use of System.out by a logger.(‰Ä¡æüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ğ¦È
+@	java:S106"+Replace this use of System.out by a logger.(ìÊÙ
+@	java:S106"+Replace this use of System.out by a logger.(İÊßá
+E	java:S106"+Replace this use of System.out by a logger.(ò‘•°úÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ŞØ†»øÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(à›µ
